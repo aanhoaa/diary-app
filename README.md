@@ -11,7 +11,7 @@ $ npm start
 Run on: http://localhost:3000/
 
 
->Guid for this repo: https://chauit.com/nhan-du-lieu-post-trong-express/
+>Guid for this repo: 
 
 >Blog: https://chauit.com/
 
